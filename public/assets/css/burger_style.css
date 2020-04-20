@@ -1,0 +1,15 @@
+html, body, .jumbotron {
+    background-color: rgb(255, 201, 102);
+}
+
+img {
+    width: 25%;
+}
+
+.inputBox {
+    width: 50%;
+}
+
+h1 {
+    color: red;
+}

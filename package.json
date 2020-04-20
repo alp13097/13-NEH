@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/alp13097/13-NEH/issues"
   },
-  "homepage": "https://github.com/alp13097/13-NEH#readme"
+  "homepage": "https://github.com/alp13097/13-NEH#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "mysql": "^2.18.1"
+  }
 }
